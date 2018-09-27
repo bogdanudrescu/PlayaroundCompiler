@@ -38,3 +38,5 @@ program ec2;
 		end;
 	end;
 ```
+
+![alt text](https://raw.githubusercontent.com/bogdanudrescu/PlayaroundCompiler/master/sample/compiler.png)
