@@ -1,0 +1,14 @@
+program go;
+	a = 4;
+	while a > 0 begin
+		b = 2;
+		while b != 0 begin
+			writeln b;
+			b = b - 1;
+		end;
+		for i = 0 to 3 begin
+			write i;write " test ";writeln "";
+		end;
+		write "a este "; writeln a;
+		a = a - 1;
+	end;

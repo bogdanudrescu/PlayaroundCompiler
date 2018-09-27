@@ -1,0 +1,12 @@
+program go;
+	for i = 0 to 10 begin
+		if i < 5 begin
+			writeln "i este mai mic ca 5";
+		else begin
+			if i == 5 begin
+				writeln "i este 5";
+			else begin
+				writeln "i este mai mare ca 5";
+			end;
+		end;
+	end;

@@ -1,0 +1,4 @@
+program go;
+	if 4 <= 5 begin
+		writeln "Da";
+	end;
