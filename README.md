@@ -1,5 +1,5 @@
 # PlayaroundCompiler
-Old Compiler/Interpreter school project witten durind the winter of 2004-2005.
+Old Compiler/Interpreter school project written durind the winter of 2004-2005.
 
 This was a playaround project, compiling source code into an array of instructions further executed.
 
