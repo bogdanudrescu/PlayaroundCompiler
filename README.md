@@ -1,5 +1,5 @@
 # PlayaroundCompiler
-Old Compiler/Interpreter school project.
+Old Compiler and Runtime simulation school project.
 
 This was a playaround project, compiling source code into an array of instructions further executed.
 
